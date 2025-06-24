@@ -39,12 +39,6 @@ Dữ liệu gồm 3 bảng chính:
 - Khách hàng chủ lực chỉ chiếm số ít nhưng ảnh hưởng lớn đến hiệu quả kinh doanh.
 📌 **Đề xuất**: Chăm sóc đặc biệt cho nhóm khách hàng VIP (ưu đãi thành viên, cá nhân hóa khuyến mãi).
 ---
-## 💻 Công nghệ sử dụng
-- **Google BigQuery** – lưu trữ & truy vấn dữ liệu lớn
-- **Python (pandas, seaborn)** – xử lý và vẽ biểu đồ
-- **Tableau, Power BI, Looker Studio** – xây dựng dashboard trực quan
-- **Google Colab** – xử lý dữ liệu online
----
 ## 👨‍💻 Thành viên nhóm
 
 | Họ tên            | Vai trò chính                     |
