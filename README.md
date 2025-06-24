@@ -16,11 +16,13 @@ Dữ liệu gồm 3 bảng chính:
 - **Doanh thu cao nhất vào Thứ Bảy (417 triệu)** và **Chủ Nhật (379 triệu)**.
 - **Doanh thu thấp nhất vào Thứ Hai (46 triệu)** – cho thấy hành vi mua sắm tăng mạnh vào cuối tuần.
 📌 **Đề xuất**: Tập trung khuyến mãi, marketing mạnh vào cuối tuần. Triển khai chương trình “Monday Deals” để kích cầu đầu tuần.
+
 ---
 ### 🕒 Doanh thu theo giờ
 - **Khung giờ cao điểm**: từ **11h đến 15h59** và **20h đến 22h59** – lượng giao dịch lớn.
 - **Khung giờ thấp điểm**: 6h–10h – nên cân nhắc cắt giảm nhân lực hoặc tạo chương trình kích cầu mini.
 📌 **Đề xuất**: Tăng cường nhân sự, khuyến mãi và hoạt động trải nghiệm sản phẩm vào các khung giờ cao điểm.
+
 ---
 ### 🛍️ Doanh thu theo quầy hàng
 - **3 quầy dẫn đầu**: Gia dụng, Sữa, Hóa mỹ phẩm – chiếm **trên 71% tổng doanh thu**.
